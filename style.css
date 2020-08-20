@@ -1,0 +1,158 @@
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+*   {
+                 box-sizing: border-box;
+        }
+
+
+nav{
+    padding: 0;
+    margin: 0;
+}
+    
+
+ .bg-light{
+    background-color: transparent;
+}
+
+
+.card-one {
+      background-color: 	 #f2f2f2;
+    padding: 16px;
+    
+    
+}
+
+.top-right {
+          position: absolute;
+          width: 100%;
+         padding: 35px 0px;
+    
+        color: #eaeaea;
+        font-size: 14px;
+        text-decoration: none;
+        font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+         text-shadow: 0px 0px 5px #111;
+       font-weight: 700;
+  }
+
+.container-hover {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+
+
+.card-one .card{
+    height: 93px;
+     cursor: pointer;
+  
+}
+
+
+.choose-fabric-button{
+	color:#000000;
+	font-size: 12px;
+	text-decoration: none;
+	 font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 1px solid #000000;
+    background-color: transparent;
+      cursor: pointer;
+    padding: 10px 26px;
+    font-weight: bold;
+    
+	}
+
+.choose-fabric-button:hover{
+	color:#fff !important;
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    
+	}
+
+.buttons{
+    padding: 15px;
+}
+
+
+.link-text{
+        font-size: 15px;
+        letter-spacing: 2px;
+        text-decoration: none;
+        text-transform: capitalize;
+        color: #666666;
+        padding: 8px 8px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        line-height: 1.429;
+       
+    
+}
+.link-text:hover{
+      color: #000000;
+       text-decoration: none;
+}
+
+.navv-text{
+       font-size: 12px;
+        letter-spacing: 2px;
+        text-decoration: none;
+        text-transform: capitalize;
+        color: #000000;
+        padding: 8px 3px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        line-height: 1.429;
+    
+}
+
+
+.link-text-big{
+      letter-spacing: 2px;
+        text-decoration: none;
+        text-transform: capitalize;
+         font-family: 'Roboto', sans-serif;
+        line-height: 40px;
+       font-weight: bold;
+      font-size: 35px;
+
+    position: relative;
+    
+}
+
+.link-text-small{
+     letter-spacing: 2px;
+        text-decoration: none;
+        text-transform: capitalize;
+         font-family: 'Roboto', sans-serif;
+        line-height: 40px;
+       font-weight: bold;
+   
+      position: relative;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
